@@ -47,6 +47,10 @@ table {
     border: solid  #70b8d4; border-radius: 5px;
     
 }
+.img {
+  width: 400px; height: auto;
+}
+
 input:hover {
     border: solid #5da2da; border-radius: 5px;
     background: #5da2da;
