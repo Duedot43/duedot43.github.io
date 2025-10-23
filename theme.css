@@ -14,11 +14,11 @@
 
 
 :root {
-    --darkplus-bg: #0a0a0a;
-    --darkplus-bg2: #302f2f;
-    --darkplus-sec: #7251d6;
-    --darkplus-links: #7251d6;
-    --darkplus-home-icon: url(https://i.imgur.com/RvlNQ7k.png);
+    --darkplus-bg: #000000;
+    --darkplus-bg2: #000000;
+    --darkplus-sec: #8d04f6;
+    --darkplus-links: #8d6fe6;
+    --darkplus-home-icon: url(https://duedot43.github.io/discord.png);
     --watermark-filter-invert: 0%;
     --watermark-filter-sepia: 50%;
     --watermark-filter-saturate: 3000%;
@@ -26,4 +26,3 @@
     --watermark-filter-brightness: 70%;
     --watermark-filter-contrast: 200%;
 }
-
